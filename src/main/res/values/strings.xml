@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Breakout</string>
+    <string name="play">Play</string>
+    <string name="options">Options</string>
+    <string name="highscore">High Scores</string>
+    <string name="quit">Quit</string>
+    <string name="play1">1 Player</string>
+    <string name="play2">2 Player</string>
+
+    <string name="title_activity_play">Play</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
